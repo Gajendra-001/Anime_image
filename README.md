@@ -1,6 +1,6 @@
 # Cartoon & Anime IMAGES
 
-A modern web application for browsing and discovering cartoons and anime. This project provides a user-friendly interface to explore and search through a collection of animated content.
+A modern web application for browsing and discovering cartoons and anime images. This project provides a user-friendly interface to explore and search through a collection of animated content.
 
 ## Features
 
@@ -53,9 +53,6 @@ anime/
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
